@@ -1,10 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package org.bandarra.dbf.example;
-
 
 import java.io.IOException;
 import java.util.Arrays;
